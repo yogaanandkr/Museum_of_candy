@@ -1,0 +1,84 @@
+body{
+    background-color: #FFB6C1;
+    font-family: 'Nunito', sans-serif;  
+}
+#mainnavbar .navbar-brand{
+    color: #EA1C2C;
+    font-size: 1.5rem;
+    font-weight: 900;
+}
+#mainnavbar .navbar-brand:hover{
+    text-shadow: 2px 2px 5px white;
+}
+#mainnavbar{
+    font-size: 1.2rem;
+    font-weight: 900;
+    color: white;
+}
+#mainnavbar .nav-link:hover{
+    color: #EA1C2C;
+}
+
+#headinggroup h1{
+    font-weight: 200;
+}
+#headinggroup span{
+    color: #EA1C2C;
+}
+
+
+#row2 h2{
+    font-weight: 100;
+    color: #EA1C2C;
+    font-size: 2.5rem;
+}
+
+#row2 p{
+    color:palevioletred;
+    font-weight: 100;
+    font-size: 1.5rem;
+    line-height: 2;
+}
+#row2{
+    margin-top: 100px;
+}
+
+.row3 h2{
+    font-weight: 100;
+    color: #EA1C2C;
+    font-size: 2.5rem;
+}
+
+.row3 p{
+    color:palevioletred;
+    font-weight: 100;
+    font-size: 1.5rem;
+    line-height: 2;
+}
+.row3{
+    margin-top: 100px;
+}
+
+.navbar.scrolled{
+    background-color:rgba(139, 0, 0, 0.219);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+gumball :     https://github.com/ND-06/Colt-Steele---TWDB---Bootstrap-V4-Flexbox--The-Museum-Of-Candy-Project/blob/master/imgs/gumball.png?raw=true
+hand 2:    https://github.com/ND-06/Colt-Steele---TWDB---Bootstrap-V4-Flexbox--The-Museum-Of-Candy-Project/raw/master/imgs/hand2.png  
+lolly icon:   https://github.com/ND-06/Colt-Steele---TWDB---Bootstrap-V4-Flexbox--The-Museum-Of-Candy-Project/blob/master/imgs/lolli_icon.png?raw=true
+milk :   https://github.com/ND-06/Colt-Steele---TWDB---Bootstrap-V4-Flexbox--The-Museum-Of-Candy-Project/blob/master/imgs/milk.png?raw=true
+sprinkles :https://github.com/ND-06/Colt-Steele---TWDB---Bootstrap-V4-Flexbox--The-Museum-Of-Candy-Project/blob/master/imgs/sprinkles.png?raw=true */
